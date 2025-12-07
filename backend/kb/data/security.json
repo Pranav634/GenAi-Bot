@@ -1,0 +1,21 @@
+{
+  "topic": "Card Security",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "Security Features",
+      "rules": [
+        "You can lock/unlock card instantly.",
+        "Disable online payments, tap-and-pay, or international usage anytime.",
+        "OTP required for most high-value transactions."
+      ],
+      "examples": [
+        "Disable international usage if you never travel abroad."
+      ],
+      "notes": [
+        "Never share OTP or CVV with anyone."
+      ]
+    }
+  ]
+}

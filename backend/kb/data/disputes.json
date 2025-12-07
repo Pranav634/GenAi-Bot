@@ -1,0 +1,36 @@
+{
+  "topic": "Disputes and Chargebacks",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "Unauthorized Transactions",
+      "rules": [
+        "Immediately block the card if you did not perform the transaction.",
+        "Raise dispute within 3 days for best resolution chances.",
+        "Bank investigates with the acquiring bank/merchant."
+      ],
+      "examples": [
+        "If you see a foreign transaction you did not make, block card + raise dispute."
+      ],
+      "notes": [
+        "Investigation may take 45–90 days depending on the merchant."
+      ]
+    },
+    {
+      "title": "Chargeback Flow",
+      "rules": [
+        "Step 1: Customer reports dispute.",
+        "Step 2: Issuer files chargeback.",
+        "Step 3: Merchant provides proof.",
+        "Step 4: Issuer decides refund."
+      ],
+      "examples": [
+        "A duplicate transaction dispute often resolves within T+5 days."
+      ],
+      "notes": [
+        "Provisional credit may be given temporarily."
+      ]
+    }
+  ]
+}

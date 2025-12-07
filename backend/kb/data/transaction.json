@@ -1,0 +1,36 @@
+{
+  "topic": "Transactions",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "Transaction Failure Reasons",
+      "rules": [
+        "Insufficient credit limit.",
+        "Incorrect OTP or PIN.",
+        "Merchant category blocked.",
+        "Risk engine flagged unusual activity.",
+        "International transactions disabled."
+      ],
+      "examples": [
+        "A gaming transaction may fail if MCC is restricted by issuer."
+      ],
+      "notes": [
+        "Enable international online transactions in app settings if needed."
+      ]
+    },
+    {
+      "title": "Refund Timelines",
+      "rules": [
+        "Refund appears 2–7 working days after merchant settlement.",
+        "Pre-authorizations (hotels, cabs) may take 3–14 days."
+      ],
+      "examples": [
+        "A cancelled Swiggy order refund usually appears within 2–3 days."
+      ],
+      "notes": [
+        "Refund does not count as payment towards statement due."
+      ]
+    }
+  ]
+}

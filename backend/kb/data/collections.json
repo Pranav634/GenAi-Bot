@@ -1,0 +1,35 @@
+{
+  "topic": "Collections and Overdue",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "DPD Buckets",
+      "rules": [
+        "1–30 days: Soft reminders",
+        "31–60 days: Moderate impact on credit score",
+        "61+ days: Severe delinquency, possible card freeze"
+      ],
+      "examples": [
+        "If you miss payment by 40 days, card may be restricted."
+      ],
+      "notes": [
+        "DPD status reflects in bureau report monthly."
+      ]
+    },
+    {
+      "title": "Hardship Options",
+      "rules": [
+        "Convert overdue amount to EMI.",
+        "Request partial payment plan.",
+        "Ask for due date extension (case by case)."
+      ],
+      "examples": [
+        "If total due is ₹50,000, you may convert to EMI to reduce immediate burden."
+      ],
+      "notes": [
+        "Availability depends on risk profile and payment history."
+      ]
+    }
+  ]
+}

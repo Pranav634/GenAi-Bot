@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+streamlit
+openai
+groq
+requests
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-openai
+websockets
+sentence-transformers torch faiss-cpu numpy

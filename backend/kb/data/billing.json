@@ -1,0 +1,47 @@
+{
+  "topic": "Billing and Statements",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "Statement Cycle",
+      "rules": [
+        "Your statement generates every month on a fixed date.",
+        "Transactions after statement date go to next cycle."
+      ],
+      "examples": [
+        "If your bill date is 3rd, a purchase on 4th goes to next month."
+      ],
+      "notes": [
+        "Statement PDF includes total due, minimum due, due date, and rewards summary."
+      ]
+    },
+    {
+      "title": "Total Due vs Minimum Due",
+      "rules": [
+        "Total due must be paid to avoid interest.",
+        "Minimum due prevents late fee but interest STILL applies on remaining balance."
+      ],
+      "examples": [
+        "If total = 15,000 and minimum due = 1,500, paying 1,500 avoids late fee but interest applies on 13,500."
+      ],
+      "notes": [
+        "Paying only minimum due repeatedly leads to large interest accumulation."
+      ]
+    },
+    {
+      "title": "Payment Posting",
+      "rules": [
+        "UPI / netbanking payments typically post instantly.",
+        "IMPS/NEFT may take up to 3 hours.",
+        "Refunds appear when the merchant settles the transaction."
+      ],
+      "examples": [
+        "If Amazon refunds ₹999, it may take 5–7 days depending on merchant settlement."
+      ],
+      "notes": [
+        "Refunds reduce total outstanding immediately once posted."
+      ]
+    }
+  ]
+}

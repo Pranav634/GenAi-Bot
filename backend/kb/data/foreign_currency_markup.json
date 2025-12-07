@@ -1,0 +1,23 @@
+{
+  "topic": "foreign_currency_markup",
+  "sections": [
+    {
+      "title": "Foreign Currency Markup Fee",
+      "rules": [
+        "A foreign currency markup is charged when you make an international transaction in a currency other than INR.",
+        "The markup fee is typically 3.5% of the transaction amount, plus applicable GST.",
+        "This fee applies to both online international transactions and POS transactions outside India.",
+        "The final amount posted to your card includes the base transaction value, markup fee, and GST.",
+        "Card networks like Visa or Mastercard may apply additional conversion charges."
+      ],
+      "examples": [
+        "If you spend $100 internationally and the exchange rate is ₹85 per USD, the base amount is ₹8,500. A 3.5% markup adds ₹297.50, plus GST.",
+        "A ₹1,000 international subscription (converted value) will incur a markup of ₹35 (3.5%) plus GST."
+      ],
+      "notes": [
+        "Markup is charged even if the online merchant is Indian but processes payments through a foreign gateway.",
+        "Refunds for international transactions may take longer due to network-level processing."
+      ]
+    }
+  ]
+}

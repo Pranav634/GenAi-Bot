@@ -1,0 +1,65 @@
+{
+  "topic": "Fees and Charges",
+  "version": "1.0",
+  "last_updated": "2025-01-10",
+  "sections": [
+    {
+      "title": "Annual Fee",
+      "rules": [
+        "Annual fee is ₹500 + GST.",
+        "Fee is waived if yearly spends exceed ₹1,00,000."
+      ],
+      "examples": [
+        "If you spend ₹1.2L in a card anniversary year, you pay zero annual fee.",
+        "If you spend ₹80,000, the annual fee will apply."
+      ],
+      "notes": [
+        "Annual fee posts in the first statement after card activation.",
+        "Waiver is computed automatically at the end of the anniversary cycle."
+      ]
+    },
+    {
+      "title": "Late Payment Charges",
+      "rules": [
+        "Late fee applies if minimum due is not paid by due date.",
+        "₹0 for total due 0–1000",
+        "₹400 for total due 1001–5000",
+        "₹750 for total due above 5000"
+      ],
+      "examples": [
+        "If your total due is ₹7000 and you pay after due date, late fee = ₹750."
+      ],
+      "notes": [
+        "Late fees attract GST.",
+        "Late payment also adds daily interest on outstanding amount."
+      ]
+    },
+    {
+      "title": "Finance Charges",
+      "rules": [
+        "Monthly interest: 3% approx",
+        "Annualized interest (APR): 36% approx",
+        "Interest applies if full amount is not paid."
+      ],
+      "examples": [
+        "If you carry ₹10,000 balance, you incur ~₹300 interest for the next month."
+      ],
+      "notes": [
+        "Interest applies on ALL transactions until full dues are cleared."
+      ]
+    },
+    {
+      "title": "Cash Advance Fees",
+      "rules": [
+        "Cash withdrawal fee: 2.5% of amount (min ₹300).",
+        "Interest starts IMMEDIATELY—no grace period."
+      ],
+      "examples": [
+        "If you withdraw ₹10,000, fee = ₹300 minimum."
+      ],
+      "notes": [
+        "Avoid cash advances—they are the costliest form of credit."
+      ]
+    }
+  ]
+}
