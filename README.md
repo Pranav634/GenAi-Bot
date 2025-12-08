@@ -116,6 +116,9 @@ User ↔ Browser ↔ Voice/Input → │ - Voice input            │ ↔ REST /
 ```
 
 ## Folder Structure
+
+**⚠️ Note: This folder structure is based on the `master` branch.** ```
+...
 ```
 genai-credit-card-assistant/
 │
