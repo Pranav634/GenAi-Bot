@@ -1,5 +1,7 @@
 # 📌 GenAI Credit Card Assistant — Voice + RAG + EMI Planner + Actions
 
+**⚠️ Important Notice:** The folder structure, setup instructions, and code paths detailed in this README correspond to the **master branch** of this repository.
+
 A production-grade GenAI chatbot built for the FPL Technologies (OneCard) Product Builder Intern Assignment. This assistant understands voice + text queries, performs credit-card actions, explains EMI options, retrieves info using RAG, and offers a premium glass-morphism UI.
 
 ---
